@@ -44,6 +44,7 @@ INSTALLED_APPS = (
     'componentAPI',
     'south',
     'markdown_deux',
+    'rest_framework',
 )
 
 MIDDLEWARE_CLASSES = (
