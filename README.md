@@ -16,3 +16,8 @@ Add some default values to it using a script file. This script file should pick 
 
 
 All the apis should be authenticated via implementation of https://github.com/akash1808/oauth2-server-php/tree/master
+
+
+###Working APIs
+/api/v1/components  >> All the components       
+/api/v1/components/{id} >> details of component with id
